@@ -1,0 +1,117 @@
+
+*{
+    text-align: center;
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+}
+
+.bg1{
+    background-color: black;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+}
+
+ul{
+    color: black;
+}
+
+.f1{
+    font-size: 25px;
+    font-family: "Zeyada", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    font-size: 30px;
+    color: black;
+}
+
+.c1{
+    background-color: pink;
+    text-align: center;
+}
+
+.s{
+    font-size: 21px;
+}
+
+ul{
+    font-size: 19px;
+}
+
+.m1{
+    background-color: pink;
+    text-align: center;
+}
+
+.g1{
+    background-color: pink;
+    text-align: center;
+}
+
+.s1{
+    background-color: pink;
+    text-align: center;
+}
+
+.miks{
+    background-color: pink;
+    text-align: center;
+}
+
+.j1{
+    background-color: pink;
+    text-align: center;
+}
+
+.sh1{
+    background-color: pink;
+    text-align: center;
+}
+
+.atik{ 
+    border: solid black 10px;
+}
+
+h1{
+    font-size: 100px;
+    font-family: "Ultra", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div{
+    display: inline-block;
+}
+
+.buang:hover{
+    color: orange;
+}
+
+.a1{
+    font-family: "Zeyada", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hi{
+    font-size: 23px;
+    font-family: "Zeyada", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.kayata{
+    text-align: center;
+}
